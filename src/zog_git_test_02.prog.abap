@@ -9,6 +9,7 @@ REPORT zog_git_test_02.
 "test vs code
 
 PARAMETERS p_name TYPE char30 OBLIGATORY.
+PARAMETERS p_uname TYPE uname OBLIGATORY DEFAULT 'OG'.
 
 INITIALIZATION.
   p_name = sy-uname.
