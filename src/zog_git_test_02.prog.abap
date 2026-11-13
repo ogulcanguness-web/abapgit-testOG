@@ -8,6 +8,8 @@ REPORT zog_git_test_02.
 
 "test vs code
 
+"ozan test
+
 PARAMETERS p_name TYPE char30 OBLIGATORY.
 PARAMETERS p_uname TYPE uname OBLIGATORY DEFAULT 'OG'.
 
